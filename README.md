@@ -1,4 +1,4 @@
-# Hi there, I'm apfel 👋! 
+# Hi there, I'm apfel! 👋 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CodingApfel&show_icons=true&theme=radical"/>
 
